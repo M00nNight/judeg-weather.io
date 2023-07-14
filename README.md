@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### LIve Page host in Github pages 
+please check this out 
+<buttton onClick={https://m00nnight.github.io/judeg-weather.io/}>Live Demo<button/>
+
 ## Available Scripts
 
 In the project directory, you can run:
