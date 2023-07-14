@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/judeg-weather.io/static/css/main.57bbe120.css",
+    "main.js": "/judeg-weather.io/static/js/main.7fcf1786.js",
+    "index.html": "/judeg-weather.io/index.html",
+    "main.57bbe120.css.map": "/judeg-weather.io/static/css/main.57bbe120.css.map",
+    "main.7fcf1786.js.map": "/judeg-weather.io/static/js/main.7fcf1786.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57bbe120.css",
+    "static/js/main.7fcf1786.js"
+  ]
+}
