@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### LIve Page host in Github pages 
 please check this out 
-<buttton onClick={https://m00nnight.github.io/judeg-weather.io/}>Live Demo<button/>
+https://m00nnight.github.io/judeg-weather.io/ ##Live Demo
+
 
 ## Available Scripts
 
